@@ -18,7 +18,7 @@ User can search for poducts
 
 User must sign in to check out
     [Documentation]  This is some basic info about the test
-    [Tags]  Smoke
+    [Tags]  Smoke test
     Amazon.Search for products
     Amazon.Select product from search results
     Amazon.Add product to cart
